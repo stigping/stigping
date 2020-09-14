@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
-<img align="left" alt="StigPing's Github Stats" src="https://github-readme-stats.stigping.vercel.app/api?username=stigping&show_icons=true&hide_border=true" />
+<img align="left" alt="StigPing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stigping&show_icons=true&hide_border=true" />
 
 [website]: https://flamewatergaming.com
 [twitter]: https://twitter.com/stigping
