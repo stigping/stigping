@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-stigping.vercel.app/api/spotify" alt="StigPing Spotify Playing" width="350" />](https://open.spotify.com/user/111726687)
+[<img src="https://spotify-now-playing-stigping.vercel.app/api/spotify-playing" alt="StigPing Spotify Playing" width="350" />](https://open.spotify.com/user/111726687)
 
 <details>
   <summary>:zap: Github Stats</summary>
