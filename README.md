@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
-[![Spotify](https://stigping.vercel.app/api/spotify)](https://open.spotify.com/user/111726687)
+[![Spotify](https://spotify-now-playing-stigping.vercel.app/api/spotify)](https://open.spotify.com/user/111726687)
 
 <details>
   <summary>:zap: Github Stats</summary>
