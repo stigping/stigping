@@ -7,16 +7,6 @@
 - 🔭 I’m currently working on a [website rework][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-stigping.vercel.app/api/spotify)](https://open.spotify.com/user/111726687)
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-<img align="left" alt="StigPing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stigping&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://flamewatergaming.com
 [twitter]: https://twitter.com/stigping
