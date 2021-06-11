@@ -5,8 +5,7 @@
 ## I'm a weird guy with too much going on in his head.
 
 - 🔭 I’m currently working on a [website rework][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning React
 
 [website]: https://flamewatergaming.com
 [twitter]: https://twitter.com/stigping
