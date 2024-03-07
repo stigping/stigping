@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a [website rework][website]!
 - 🌱 I’m currently learning React and C# while also studying cybersecurity in my freetime
 
-[website]: https://flamewatergaming.com
+[website]: [REDACTED]
 [twitter]: https://twitter.com/stigping
 [instagram]: https://instagram.com/stigping
 [linkedin]: https://linkedin.com/in/stigping
