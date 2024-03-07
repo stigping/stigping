@@ -4,7 +4,7 @@
 
 ## Meow
 
-- 🔭 I’m currently working on a [website rework][website]!
+- 🔭 I’m currently working on a website!
 - 🌱 I’m currently learning React and C# while also studying cybersecurity in my freetime
 
 [website]: REDACTED
